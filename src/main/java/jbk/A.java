@@ -5,6 +5,6 @@ import org.openqa.selenium.WebDriver;
 public class A {
 
 	
-	WebDriver driver;
+	private WebDriver driver;
 	
 }
